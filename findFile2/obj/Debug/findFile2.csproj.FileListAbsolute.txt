@@ -1,0 +1,6 @@
+C:\gcPrograms\findFile2\findFile2\bin\Debug\findFile2.exe.config
+C:\gcPrograms\findFile2\findFile2\bin\Debug\findFile2.exe
+C:\gcPrograms\findFile2\findFile2\bin\Debug\findFile2.pdb
+C:\gcPrograms\findFile2\findFile2\obj\Debug\findFile2.csprojResolveAssemblyReference.cache
+C:\gcPrograms\findFile2\findFile2\obj\Debug\findFile2.exe
+C:\gcPrograms\findFile2\findFile2\obj\Debug\findFile2.pdb
